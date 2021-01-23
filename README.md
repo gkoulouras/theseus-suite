@@ -1,1 +1,1 @@
-# theseus-suite
+# Theseus Suite
